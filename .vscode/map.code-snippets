@@ -1,0 +1,15 @@
+{"Map": {
+    "prefix": "nmap",
+    "body": [
+      "1. ${1:song} ()",
+      "    - Difficulty: ",
+      "    - Mapset Mapper: ",
+      "    - Map Link: ",
+      "",
+      "    - Score: ",
+      "    - Acc: ",
+      "    - Mods: ",
+      "    - Failed: "
+    ],
+    "description": "Map"
+  }}
